@@ -1,0 +1,12 @@
+.title {
+    color: #02ccba;
+  }
+.rectangle{
+    position: absolute;
+width: 493px;
+height: 324px;
+left: 43px;
+top: 122px;
+
+background: #C4C4C4;
+}
